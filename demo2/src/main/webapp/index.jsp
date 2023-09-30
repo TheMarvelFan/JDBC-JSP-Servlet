@@ -9,7 +9,7 @@
     <!-- Compiled and minified JavaScript -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
 </head>
-<body style="background-size: cover; background-image: url(src/main/webapp/login.jpg); background-attachment: fixed">
+<body style="background-size: cover; background-image: url(demo2\src\main\webapp\login.jpg); background-attachment: fixed">
 <div class="container">
 <%--    com/servlets/demo2/login.jpg--%>
     <div class="row">
